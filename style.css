@@ -3,7 +3,7 @@
 }
 
 .banner{
-    background-image: url('/image/header.jpg');
+    background-image: url('/header.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     height: 600px;
